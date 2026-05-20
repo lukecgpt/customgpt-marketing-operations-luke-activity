@@ -1,0 +1,2 @@
+date,time,summary,source
+2026-05-20,09:09,Activity captured (set ANTHROPIC_API_KEY for AI summaries),stop_hook
