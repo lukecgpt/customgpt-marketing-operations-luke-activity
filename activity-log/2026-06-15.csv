@@ -14,3 +14,4 @@ date,time,summary,source
 2026-06-15,17:11,Activity captured (set ANTHROPIC_API_KEY for AI summaries),stop_hook
 2026-06-15,17:28,Activity captured (set ANTHROPIC_API_KEY for AI summaries),stop_hook
 2026-06-15,17:33,Activity captured (set ANTHROPIC_API_KEY for AI summaries),stop_hook
+2026-06-15,22:27,Activity captured (set ANTHROPIC_API_KEY for AI summaries),task_scheduler
